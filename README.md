@@ -3,3 +3,4 @@
 Q1 Given a year, determine whether it is a leap year. If it is a leap year, return the Boolean True, otherwise return False.
 Note that the code stub provided reads from STDIN and passes arguments to the is_leap function. It is only necessary to complete the is_leap function.
 
+Q2  Print the list of integers from  through  as a string, without spaces.
